@@ -1,1 +1,10 @@
 # Assignment_8_2
+
+Q: How do I interpret user needs and implement them into a program? How does creating "user stories" help with this?
+A: User stories answer 3 essential questions: Who? What? and Why? The "who" is the person or group who is requesting the feature. The "what" is the feature itself. The "why" is the reson it's needed or the purpose it serves. For example an end user (who) may request a "list of the top 5 vacation distinations based on a price limit" (what). The reason they want this feature is so that they can find the best vacation within the limits of their budget (why). The user story that defines this on the product backlog will provide all 3 of these items in its description. It also inherently defines the requirements for the test case that will verify that this story is "done" when work is completed. 
+
+Q: How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+A: I always approach a development effort with the goal of creating something that works as soon as possible. Then I add more features incremementally but I always have a working build to fall back on. The master branch should always be deliverable. The develop branch is for experimentation. Changes can be made and new features may be added at any time. Before merging with the master branch, feature branches must be tested and verified. Only fully tested software exists on the master branch and this may be presented to the client whenever they request it. 
+
+Q: What does it mean to be a good team member in software development?
+A: Having the abilty to communicate effectively with other team members is important, esecially when problems arise. Being able to describe an issue with enough detail to allow other team members to fully understand the problem is essential to finding a solution quickly. Having more than one person attack a problem is more effective than pulling all-nighters. This is the basis of "open-source" development which gave us many great things such as Linux.  
